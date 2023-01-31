@@ -5,6 +5,7 @@
 ### Running snippy with poor seq cap data  
 ```  
 snippy --minqual 0 --mapqual 0 --basequal 0 --mincov 1 --minfrac 0 --outdir DMG2212098 --ref M_ulcerans_JKD8049.fa --R1 DMG2212098/DMG2212098_S1_L001_R1_001.fastq.gz --R2 DMG2212098/DMG2212098_S1_L001_R2_001.fastq.gz  
+```  
   
 ### Running snippy-core without seq cap genome  
 ```  
