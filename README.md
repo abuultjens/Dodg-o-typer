@@ -1,6 +1,7 @@
 # Dodg-o-typer
 
-# Data files
+# About
+When a seqcap dataset has poor alignment most sites that do have coverage only have between 1-3x reads mapping and there is insufficient depth to overcome the error rate of the sequencing and false positive SNPs will occur. To work around this Dodg-o-typer looks only at SNP sites of interest that have been discovered in a population not including the seqcap genome with poor coverage. This is somewhat equivalent to first discovering a set of informative SNPs and then investigating them via something like PCR-based amplicon sequencing.
   
 ## Running snippy with poor seq cap data  
 ```  
