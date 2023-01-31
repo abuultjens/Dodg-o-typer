@@ -24,7 +24,7 @@ snippy-core --prefix 543_VIC_W-DMG2212098 --ref ref.fa --mask M_ulcerans_JKD8049
 sh dodg-o-typer.sh [SNIPPY_TAB_FILE_WO_SEQCAP.tab] [SNIPPY_TAB_FILE_W_SEQCAP.tab] [OUTFILE.aln]  
 ```  
   
-## Running with example
+#### Running with example
 ```  
 sh dodg-o-typer.sh 543_VIC.tab 543_VIC_W-DMG2212098.tab dodg-o-typer_543_VIC_W-DMG2212098.aln 
 ```  
